@@ -9,6 +9,10 @@ is useful for looking at how Git handles blob deduplication, but not much else.
 
 Prerequisites
 =============
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/bmcorser/git-little-picture
+   :target: https://gitter.im/bmcorser/git-little-picture?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 Some "proper software" is needed before you can use ``git-little-picture``:
 
     - libgit2
